@@ -9,9 +9,15 @@ public class Slot : MonoBehaviour, IDropHandler
     {
         get
         {
-            if (transform.childCount > 0)
+            if (transform.childCount > 1)
             {
-                return transform.GetChild(0).gameObject;
+                transform.GetChild(0).gameObject.SetActive(false);
+                return transform.GetChild(1).gameObject;
+            }
+            else
+            {
+                if (transform.childCount == 1)
+                    transform.GetChild(0).gameObject.SetActive(true);
             }
             return null;
         }
