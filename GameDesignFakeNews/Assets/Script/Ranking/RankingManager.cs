@@ -20,7 +20,7 @@ public class RankingManager : MonoBehaviour
         int Addscore = 5;
         foreach (Transform slotTransform in slots)
         {
-            name = slotTransform.GetChild(0).name;
+            name = slotTransform.GetChild(1).name;
             if (!name.Contains("Text"))
             {
                 NewspaperRanking[name] += Addscore;
@@ -36,6 +36,7 @@ public class RankingManager : MonoBehaviour
         string BestMedia ="";
         foreach (var item in NewspaperRanking)
         {
+
             if (item.Value > BestScore)
             {
                 BestScore = item.Value;
