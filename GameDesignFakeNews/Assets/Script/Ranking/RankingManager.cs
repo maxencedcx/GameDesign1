@@ -16,17 +16,18 @@ public class RankingManager : MonoBehaviour
 
     public void UpdateRanking()
     {
-        Debug.Log("passe");
+        Debug.Log("passe1");
+        int Addscore = 5;
         foreach (Transform slotTransform in slots)
         {
-            int Addscore = 5;
-            GameObject item = slotTransform.GetComponent<Slot>().item;
-            if (item)
+            name = slotTransform.GetChild(0).name;
+            if (!name.Contains("Text"))
             {
-                NewspaperRanking[item.name] += Addscore;
+                NewspaperRanking[name] += Addscore;
                 Addscore--;
             }
         }
+        Debug.Log("passe3");    
     }
 
     public string GetTopMedia()
