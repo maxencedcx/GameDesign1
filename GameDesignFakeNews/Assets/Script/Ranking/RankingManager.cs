@@ -11,7 +11,6 @@ public class RankingManager : MonoBehaviour
         {"News (2)", 0},
         {"News (3)", 0},
         {"News (4)", 0},
-        {"News (5)", 0}
     };
     [SerializeField] Transform slots;
 
@@ -19,7 +18,7 @@ public class RankingManager : MonoBehaviour
     {
         foreach (Transform slotTransform in slots)
         {
-            int Addscore = 6;
+            int Addscore = 5;
             GameObject item = slotTransform.GetComponent<Slot>().item;
             if (item)
             {
