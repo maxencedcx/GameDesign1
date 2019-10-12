@@ -1985,6 +1985,7 @@ GameObject:
   - component: {fileID: 1091177421}
   - component: {fileID: 1091177424}
   - component: {fileID: 1091177423}
+  - component: {fileID: 1091177425}
   m_Layer: 0
   m_Name: GameManager
   m_TagString: Untagged
@@ -2036,7 +2037,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 241226e5d653b594ea3ac02e2839714a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  totalDays: 2
+  totalDays: 1
   dayIndex: 0
 --- !u!114 &1091177424
 MonoBehaviour:
@@ -2050,6 +2051,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3562587db7ca9c541812105e4c35bf12, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &1091177425
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1091177420}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: afafd9b7fe5a64845acbd9e647d7fe22, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  slots: {fileID: 490556713}
 --- !u!1 &1098228043
 GameObject:
   m_ObjectHideFlags: 0

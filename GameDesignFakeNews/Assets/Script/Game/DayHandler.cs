@@ -15,7 +15,7 @@ public class DayHandler : MonoSingleton<DayHandler>
 
     public void StartDay()
     {
-        string context = (++dayIndex <= totalDays) ? ("Day" + dayIndex) : ("EndGame");
+        string context = (++dayIndex <= totalDays) ? ("Day" + dayIndex) : ("EndGame/Day" + dayIndex);
         ArticlesHandler.Instance.LoadArticles(context);
     }
 

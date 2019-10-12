@@ -5,6 +5,12 @@ public class ArticlesHandler : MonoSingleton<ArticlesHandler>
 {
     [SerializeField] List<GameObject> articlesUI;
     public List<Article> articles = new List<Article>();
+    private RankingManager rankingManager;
+
+    void Start()
+    {
+        rankingManager = GetComponent<RankingManager>();
+    }
 
     public void AddArticle(Article article)
     {
@@ -19,6 +25,8 @@ public class ArticlesHandler : MonoSingleton<ArticlesHandler>
 
     public void LoadArticles(string context)
     {
+        if (context.StartsWith("EndGame"))
+            context += "/" + rankingManager.GetTopMedia();
         foreach (Article article in ArticlesLoader.Instance.LoadArticles(context))
         {
             AddArticle(article);
