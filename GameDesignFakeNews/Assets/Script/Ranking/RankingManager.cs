@@ -6,11 +6,11 @@ public class RankingManager : MonoBehaviour
 {
     public Dictionary<string, int> NewspaperRanking = new Dictionary<string, int>()
     {
-        {"News", 0},
-        {"News (1)", 0},
-        {"News (2)", 0},
-        {"News (3)", 0},
-        {"News (4)", 0},
+        {"Economique", 0},
+        {"Anarchiste", 0},
+        {"Militaire", 0},
+        {"Scientifique", 0},
+        {"Religieux", 0},
     };
     [SerializeField] Transform slots;
 
