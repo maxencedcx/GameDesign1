@@ -19,13 +19,19 @@ public class ArticlesHandler : MonoSingleton<ArticlesHandler>
 
     public void LoadArticles(string context)
     {
-        int index = 0;
         foreach (Article article in ArticlesLoader.Instance.LoadArticles(context))
         {
             AddArticle(article);
-            if (index < articlesUI.Count)
-                articlesUI[index].GetComponent<ArticleMapper>().MapArticle(article);
-            index++;
+            checkMedia(article);
+        }
+    }
+
+    private void checkMedia(Article article)
+    {
+        foreach (GameObject media in articlesUI)
+        {
+            if (media.name.Equals(article.media))
+                media.GetComponent<ArticleMapper>().MapArticle(article);
         }
     }
 
