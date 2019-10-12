@@ -1,0 +1,4 @@
+{
+	"title": "Un compteur faussement nécessaire",
+	"text": "Les nouveaux compteurs Evoly, nouveau produit de la branche scientifique de Novitzka, sont des compteurs intelligents permettant de réaliser une économie d'énergie considérable chez les particuliers. Alors que les réels économies que permet de réaliser ce compteur est profitable, le fait qu'il soit devenu presque obligatoire est questionnable. En effet, la première version concernant le projet de loi sur la réforme du comptage de l'électricité en Novitzka ne comportait apparemment pas d'obligation d'installation de ce nouvel appareil contrairement à la version approuvée hier par l'état. Serait-il possible que des changements aient été forcés ?"
+}

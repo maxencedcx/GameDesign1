@@ -1,0 +1,4 @@
+{
+	"title": "Amazol recrute !",
+	"text": "Amazol, la plus grande entreprise postée à Novitzka recrute ! Alors n'hésitez pas à postuler rapidemment afin de décrocher le travail de vos rêves dans nos locaux !"
+}

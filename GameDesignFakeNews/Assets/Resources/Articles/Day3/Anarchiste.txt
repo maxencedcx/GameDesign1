@@ -1,0 +1,4 @@
+{
+	"title": "Rencontre au sommet",
+	"text": "Enfin ! La renégociation du traité de paix et d'échange commercial entre Arstograd et Novitzka aura lieu demain. Nous espérons donc que notre gouvernement saura prendre les décisions adéquates afin que nous, les citoyens, puissions également profiter de cet arrangement. Qui plus est, il serait également bon pour notre gouvernement de prendre exemples sur l'état d'Arstograd concernant la libérté, bien plus présente qu'ici, et les lois en place."
+}

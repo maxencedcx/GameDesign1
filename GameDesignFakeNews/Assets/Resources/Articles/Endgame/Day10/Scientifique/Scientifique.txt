@@ -1,0 +1,4 @@
+{
+	"title": "Un pays parfait",
+	"text": "Novitzka est officiellement devenu hier le pays le plus heureux du monde avec un taux de satisfaction de 100%. Mais ce n'est pas fini ! Nous nous rapprochons chaque jour de la perfection mais nous n'y sommes pas encore ! Pauvreté, maladies, inégalités ... Même si ces choses sont presque inexistantes dans notre grand pays, elles n'ont pas disparues du monde pour autant. C'est pourquoi il est de notre devoir de continuer la lutte et de partager nos connaissances avec nos voisins ! Le monde parfait est à portée de main."
+}

@@ -1,0 +1,4 @@
+{
+	"title": "Les héros de Novitzka",
+	"text": "Hier un braquage de la banque centrale de Novitzka a été arrêté à l'aide de nos valeureux soldats. Tous les braqueurs ont été interpellés et aucune perte civil n'est à déplorer."
+}

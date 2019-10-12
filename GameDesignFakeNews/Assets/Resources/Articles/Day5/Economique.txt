@@ -1,0 +1,4 @@
+{
+	"title": "Plusieurs ministres accusés de détournement de fond",
+	"text": "Voilà bientôt 1 semaine que l'enquête sur le détournement de fond public au sein de notre gouvernement continu pendant que de plus en plus de coupables sont démasqués. Déjà 6 haut placés du gouvernement de Novitzka sont accusés de détournement et extorcation. Ces derniers sont suspectés d'avoir travaillé de pairs avec des agents d'Arstograd afin de cacher leur vol."
+}

@@ -1,0 +1,4 @@
+{
+	"title": "Une insulte envers les Dieux",
+	"text": "Un véritable sacrilège aussi bien envers l'espèce humaine qu'envers les Dieux a été révélé. De recents articles portant sur de la manipulation génétique ont été rendus publiques la journée dernière. D'après eux, cela fait maintenant plusieurs semaines que notre gouvernement réalise des tests sur nos enfants à notre insus afin de ne selectionner que les plus "génétiquement avancés". En justifiant cette action par le bien de l'humanité, ces fous ne font que révéler ce que nous savions déjà : ils n'ont aucune morale et aucun amour pour la création des Dieux."
+}

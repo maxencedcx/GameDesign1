@@ -1,0 +1,4 @@
+{
+	"title": "Repli stratégique",
+	"text": "Un repli militaire a dû être annoncé à 23h54 la nuit dernière. Il était impossible pour les militaires de lutter contre cette dizaine de millions de manifestants et de ce fait la capitale à dû être abandonnée. Un plan était en préparation lorsque les plusieurs QG stationnés aux alentours de la capitale se sont fait assiégés presque simultanément. Pour quelques milliers de manifestants tués, la presque totalité de nos forces militaires ont été anéantis."
+}

@@ -1,0 +1,4 @@
+{
+	"title": "Une révolution à venir",
+	"text": "Depuis bientôt deux ans, nos meilleurs développeurs travaillent d'arrache-pied afin de créer un programme permettant de conseiller à un utilisateur le métier lui étant le plus adapté et où il pourra s'y épanouir. Ce nouveau programme devrait permettre à tous nos concitoyens de travailler dans un domaine où ils sont talentueux et où l'épanouissement serait possible. Grace à ce programme, plus personne ne rechignera à aller au travail le matin."
+}

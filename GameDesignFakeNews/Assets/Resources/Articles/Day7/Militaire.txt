@@ -1,0 +1,4 @@
+{
+	"title": "Tueur de journalistes : de nouveaux indices",
+	"text": "C'est avec son 3ème meurtre que le tueur de journalistes fournit, d'après la police, de nouveaux indices qui permetteraient d'accélerer sa capture. Confident, la police et l'armée nous assure que "il ne s'agit plus d'une question de temps avant que ce fou se prenant pour un prédateur devienne une proie". Malgré cela la police rappelle que toute information permettant d'assurer la capture de ce criminel reste récompensée."
+}

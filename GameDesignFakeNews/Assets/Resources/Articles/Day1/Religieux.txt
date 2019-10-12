@@ -1,0 +1,4 @@
+{
+	"title": "L'ombre du malheur",
+	"text": "Hier a été dévoilé le nouveau médicament pharmaceutique prétendant écarter tous les problèmes liés aux maladies hivernales. Fruit de plusieurs mois d'experimentation humaine dont le contenu reste encore flou, ce médicament se targue d'incarner la solution à tous les maux en un produit abordable pour tous. Parce qu'il est bien connu que les meilleures solutions sont toujours les plus abordables n'est-ce pas ?"
+}

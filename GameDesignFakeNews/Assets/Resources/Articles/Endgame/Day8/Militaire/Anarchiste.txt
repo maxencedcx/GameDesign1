@@ -1,0 +1,4 @@
+{
+	"title": "La fin de la vie privée",
+	"text": "La mise en place de plus d'un million de caméras de surveillance a été prévue par le gouvernement de Novitzka. Ce moyen de surveillance à grande échelle présenté comme un moyen de prévention contre les crimes n'est que la première étape de notre gouvernement afin de transformer notre pays en gouvernement totalitariste."
+}

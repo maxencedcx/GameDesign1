@@ -1,0 +1,4 @@
+{
+	"title": "Des tests attisent la panique",
+	"text": "Plusieurs rumeurs ont fait part d'une potentielle attaque de la part du gouvernement d'Arstograd sur notre pays. Cependant le gouvernement enjoint les civils à garder leur calme et à ne pas paniquer inutilement. Il ne s'agit en effet que de tests de la part de l'état voisin. L'état de Novitzka tient à rappeler à tous le lien fort ayant toujours uni nos deux nations et explique qu'une guerre n'aurait aucune raison d'éclater."
+}

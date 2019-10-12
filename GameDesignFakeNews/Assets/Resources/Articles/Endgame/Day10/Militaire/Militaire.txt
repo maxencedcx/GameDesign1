@@ -1,0 +1,4 @@
+{
+	"title": "La rentrée des classes",
+	"text": "Quelques jours après la rentrée des classes, le premier bilan semble augurer une bonne année scolaire. Après les brillants résultats obtenus aux examens académiques, de nombreux projets sont au programme dont un partenariat avec l'armée afin de sensibiliser les plus jeunes à la vie des héros qui protègent notre pays."
+}

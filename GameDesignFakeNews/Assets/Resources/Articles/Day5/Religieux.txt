@@ -1,0 +1,4 @@
+{
+	"title": "Un soleil de plomb",
+	"text": "Le réchauffement climatique est la seule solution que les Dieux ont trouvés pour nous faire part de leur mécontentement. Malgré les tentatives des démons bleus pour vous le cacher, il n'est plus possible de l'ignorer actuellement. Repentez-vous et priez car seul ceux ayant emprunter la Voie Unique sauront ignorer la douleur des flammes pour renaître. Ne les laissez pas vous empoisonnez avec leur venin, n'oubliez pas qu'ils sont les responsables de ce desastre."
+}

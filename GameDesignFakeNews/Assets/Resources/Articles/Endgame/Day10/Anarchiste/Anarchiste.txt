@@ -1,0 +1,4 @@
+{
+	"title": "Victoire !",
+	"text": "Ce fut un cri commun qui annonca la victoire de notre mouvement à 23h54 la nuit dernière. D'après les dernières sources, les derniers militaires ont été évacués de la capitale et ont cherché à se rassembler dans les villes environnantes. Cependant, plusieurs de nos concitoyens les attendaient au tournant et un repli militaire national à été annoncé plus tard dans la nuit. La mise en place d'un gouvernement plus juste avec de réels libertés est à présent à portée de main."
+}

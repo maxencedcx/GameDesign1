@@ -1,0 +1,4 @@
+{
+	"title": "Le Lion et la Chèvre",
+	"text": "Demain se tiendra la réunion au sommet entre notre état et Novitzka, notre voisin de toujours. Cette rencontre aura pour but la signature d'un nouveau traité de paix entre nos deux nations mais est-ce réellement nécessaire ? Contrairement à notre nation, Novitzka n'a pas cessé d'accepter l'aide étrangère et bien que cela la rende plus performante technologiquement, son économie et sa force militaire n'est plus que l'ombre de ce qu'elle était autrefois. Est-ce que la même chose nous attends ? Signons-nous avec Novitzka ? Ou plutôt avec les puissances étrangères qui la controle présent ?"
+}

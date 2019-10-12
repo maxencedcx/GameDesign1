@@ -1,0 +1,4 @@
+{
+	"title": "Les assurances vie : records battus",
+	"text": "La souscription d'assurances vie connait aujourd'hui un nombre record. Le lien avec les récents drames liés aux tueurs de journaliste ont dû jouer un grand rôle dans cette prise de décision adoptées par des milliers de citoyens dans le pays."
+}

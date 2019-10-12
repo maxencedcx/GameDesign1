@@ -1,0 +1,4 @@
+{
+	"title": "Une punition meritée",
+	"text": "Après plus d'un mois de difficulté économique pour notre grand pays, c'est aujourd'hui qu'est officiellement déclaré la crise économique en Novitzka. Les prix ne cessent de monter depuis cette décision. Cet instant qui restera sans doute gravé très longtemps dans l'histoire de Novitzka pourrait être apparenté à une punition divine. Cependant il ne tient qu'à nous de définir comment nous allons nous repentir. Il n'est pas trop tard pour prier !"
+}

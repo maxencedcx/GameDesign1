@@ -1,0 +1,4 @@
+{
+	"title": "Des dizaines de milliers de soldats",
+	"text": "C'est hier que des dizaines de milliers de citoyens se sont retrouvés devant le Parlement. Cet évenement qui n'était pourtant prédit par personne a rassemblé une foule comme jamais vu auparavant, tous habillés de toges blanches à rayures grises. Tous portaient à leur ceinture une étoile à 9 branches, symbole de l'Ordre de Novitzka. D'après les différentes sources, toutes les institutions se sont retrouvés débordés par cette attaque subite et par le manque de communication qui en a suivi."
+}

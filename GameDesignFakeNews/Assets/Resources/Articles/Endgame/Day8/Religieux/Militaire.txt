@@ -1,0 +1,4 @@
+{
+	"title": "Des disparitions en série partout dans le pays",
+	"text": "De plus en plus d'enlèvements sont recensés dans plusieurs régions de notre pays. Chaque nuit, plusieurs disparitions ont lieu un peu partout dans le pays sans qu'il soit possible de définir qui sont les responsables ou comment cela est possible. Une enquête est ouverte et une récompense est promise à quiconque pourrait aider à retrouver les disparus."
+}

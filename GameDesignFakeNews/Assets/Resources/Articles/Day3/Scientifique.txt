@@ -1,0 +1,4 @@
+{
+	"title": "Une prise de conscience",
+	"text": "Alors que les accords signés il y a déjà 20 ans entre Arstograd et Novitzka sont sur le point d'expirer, tout le monde se demande quels vont être les nouveaux termes du contrat qui se renégociera demain entre les deux pays. Peut-être que notre gouvernement prendra exemple sur son voisin bien plus avancé technologiquement afin de rattraper le retard engrengé depuis quelques années ?"
+}

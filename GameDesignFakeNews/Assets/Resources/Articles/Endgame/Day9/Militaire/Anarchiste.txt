@@ -1,0 +1,4 @@
+{
+	"title": "Combattez !",
+	"text": "De nombreux militaires sont déployés aux quatre coins du pays. Les grandes instances publics comme les tribunaux et poste de police ont déjà été sécurisés par l'armée. Ils sont en train d'envahir notre pays. Ne vous laissez pas faire ! Combattez ! Resistez !"
+}

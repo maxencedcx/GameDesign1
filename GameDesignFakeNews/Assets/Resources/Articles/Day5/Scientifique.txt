@@ -1,0 +1,4 @@
+{
+	"title": "Les impacts climatiques sur la biodiversité mondial",
+	"text": "Les changements climatiques constituent aujourd'hui une pression supplémentaire qui menace aussi bien notre mode de vie actuel que la diversité biologique. L'impact le plus visible de ces changements est l'élévation du niveau de la mer mais l'élévation de température a également un effet sur l'évolution des espèces."
+}

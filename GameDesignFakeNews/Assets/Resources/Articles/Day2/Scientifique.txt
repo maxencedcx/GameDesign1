@@ -1,0 +1,4 @@
+{
+	"title": "Une guerre nucléaire évitable",
+	"text": "D'après certaines informations anonymes, à 8h56 ce matin, des dizaines de missiles d'Arstograd ont pris pour cible notre capitale sans toutefois tirer. D'après certaines rumeurs, cet incident ne serait que le resultat d'un test militaire du gouvernement d'Arstograd mais il est toujours légitime de se demander pourquoi est-ce que nous sommes les cibles de cet exercice de test"
+}

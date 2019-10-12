@@ -1,0 +1,4 @@
+{
+	"title": "Quantifié l'inquantifiable",
+	"text": "Ce matin a été révélé le nouveau programme désignant à votre place le métier que vous devriez excercé selon vos compétences. Un robot décide donc à votre place de votre valeur et de vos qualités et décide - sans votre avis - quelle activité serait la plus compatible par rapport à vos capacités. Est-ce normal qu'un robot juge de votre valeur à votre place ? N'est-ce pas le rôle que seul les Dieux peuvent jouer ? Aujourd'hui une ombre créée par des démons menace notre beau pays et il est de notre devoir d'y apporter la lumière."
+}

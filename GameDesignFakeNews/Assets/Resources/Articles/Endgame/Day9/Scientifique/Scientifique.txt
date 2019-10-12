@@ -1,0 +1,4 @@
+{
+	"title": "La fin des maladies",
+	"text": "Un nouveau type de manipulation génétique permet dorénavant de supprimer tous les types de maladies génétiques chez l'enfant au stade embryonnaire. Grâce à cette découverte révolutionnaire par nos scientifiques, la totalité des maladies génétiques devraient avoir disparus d'ici deux générations. De plus, certaines de ces modifications permetteraient à l'embryon de se développer plus efficacement et ainsi d'assurer une meilleure santé une fois arrivé au stade adulte. Cette découverte phénoménale placera les gènes des habitants de Novitzka devant tous les autres."
+}

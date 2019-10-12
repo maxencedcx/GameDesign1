@@ -1,0 +1,4 @@
+{
+	"title": "Un besoin bientôt comblé",
+	"text": "Près de deux millions de militaire ont subitemment reçu l'ordre de se positionner et de sécuriser plusieurs instances majeures de notre pays. En effet, la hausse de la criminalité dans notre beau pays a forcé nos forces armées à intervenir afin d'endiguer le problème."
+}

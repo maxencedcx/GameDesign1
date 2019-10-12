@@ -1,0 +1,4 @@
+{
+	"title": "Les citoyens dans la rue : l'armée réquisitionnée",
+	"text": "C'est une foule de près de 50 millions de personnes que l'armée a dû calmer aujourd'hui. Suite à l'officialisation de la crise économique, chaque citoyen est dans la rue essayant désespérément de réunir un stock de ressources comme si un hiver nucléaire allait commencer d'un instant à l'autre. Cette information à créée un véritable mouvement de panique qui s'est propagé comme une trainée de poudre dans notre grand pays."
+}

@@ -1,0 +1,4 @@
+{
+	"title": "Une perte déchirante",
+	"text": "Le rédacteur en chef de notre journal a hier trouvé la mort des mains d'un tueur en série. Mais c'est dans la mort qu'il a pu donné un indice qui permettera sans doute de sauver une, si ce n'est d'autres vies que ce fou aurait pu arrêter. Cependant les autorités compétentes n'ont pas souhaités partager la nature de cette indice, chose qui se comprend s'ils veulent assurer la capture de ce criminel. Nos pensées sont à la famille de la victime et à leurs proches."
+}

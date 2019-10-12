@@ -1,0 +1,4 @@
+{
+	"title": "Que s'est-il passé ?",
+	"text": "C'est après deux jours affreux que les résultats concernant cette crise économique tombent, et ils sont formels. D'après nos meilleures machines de calculs, il est impossible qu'une crise d'une telle ampleur n'est pas pu être prédite et c'est pourquoi il est supposé que cette dernière a été provoquée d'une façon ou d'une autre."
+}

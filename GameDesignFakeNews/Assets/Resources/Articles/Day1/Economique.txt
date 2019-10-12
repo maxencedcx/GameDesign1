@@ -1,0 +1,4 @@
+{
+	"title": "Le virus économique",
+	"text": "Un nouveau médicament developpé par l'état a été propulsé sous la lumière des projecteurs comme la solution miracle contre un (trop) grand nombre de maladies pour un prix dérisoire. Cependant son bas prix soulève plusieurs questions économiques ne trouvant aucune réponse dans aucun des communiqués officiels trouvés. En effet, comment un prix aussi bas peut-il rentabiliser le développement et la recherche de cette solution miracle ?"
+}

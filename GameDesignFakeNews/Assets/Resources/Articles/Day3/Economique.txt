@@ -1,0 +1,4 @@
+{
+	"title": "Vers une renaissance",
+	"text": "La signature des nouveaux accords entre notre pays et Novitzka demain sont pour nous l'occasion d'enfin nous ouvrir au monde et de profiter tout ce que la culture étrangère a à nous offrir. Pour rappel, notre état, bien que puissant militairement, ne brille pas par son niveau technologique ou économique contrairement à tous nos voisins historiques. Serait-il le moment de voir ce que le monde peut nous offrir plutôt que de rechigner à sortir de chez soi ?"
+}

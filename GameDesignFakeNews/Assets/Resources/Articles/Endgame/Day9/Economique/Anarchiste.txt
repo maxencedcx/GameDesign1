@@ -1,0 +1,4 @@
+{
+	"title": "L'économie de nouveau stable ; des négociations salvatrices",
+	"text": "Notre gouvernement a, après plusieurs jours de négociation, réussi a négocier avec une entreprise étrangère qui nous a permis de redresser l'économie. Cependant le bilan est lourd et aurait pu être évité par une réaction plus rapide. Plusieurs centaines de morts sont a recenser dans le pays et quelques milliers de blessés. Le bilan économique est également très lourd puisqu'un nombre record de vols et de pillages ont été enregistrés durant ces deux jours. Heureusement, le pire est maintenant derrière nous."
+}

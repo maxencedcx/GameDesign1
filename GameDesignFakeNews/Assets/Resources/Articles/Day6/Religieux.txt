@@ -1,0 +1,4 @@
+{
+	"title": "Ils essaient de nous remplacer",
+	"text": "Le sacrilège ultime a enfin été réalisé. Ce n'était plus qu'une question de temps depuis la montée en puissance des démons bleus. Ils souhaitent remplacés les humains ! Et nous les avons laissé faire ! Révoltez-vous ! Réveillez-vous car le début de la fin a commencé !"
+}
