@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class DayHandler : MonoSingleton<DayHandler>
 {
@@ -24,7 +25,10 @@ public class DayHandler : MonoSingleton<DayHandler>
             ArticlesHandler.Instance.LoadArticles(context);
         }
         else
+        {
             EndGamePanel.SetActive(true);
+            EndGamePanel.GetComponentInChildren<Text>().text += "\nVous avez eu la fin du media " + rankingManager.GetTopMedia(); 
+        }
     }
 
     public void EndDay()
