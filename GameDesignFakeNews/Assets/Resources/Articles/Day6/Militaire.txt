@@ -1,0 +1,4 @@
+{
+	"title": "Un programme combattant sur tous les fronts",
+	"text": "Le très décrié Système Automatisé Programmable fait déjà parler de lui avant même d'avoir été lancé en production. D'après certaines études, plus de 20% de la population serait contre l'implentation d'un tel programme afin de permettre l'automatisation de toutes nos chaînes de production. Là où certains y voient un moyen de réduire les coûts des entreprises et où d'autres ont peur pour leurs emplois, tous oublient que cette IA a avant tout pour but d'automatiser le chaîne de production et non pas de la diriger. De plus la réduction considérable des dangers liés aux travaux manuels devraient en réjouir plus d'un parmi les manifestants pour la reforme ouvrière."
+}

@@ -1,0 +1,4 @@
+{
+	"title": "Un prêt à la sécurité",
+	"text": "Un prêt de plusieurs milliards a été accordé pour l'installation d'au moins deux millions de caméras à travers la pays malgré la dette contractée à l'Union. Le gouvernement prétend que cela permettra la réduction de la criminalité à long terme et qu'un retour sur investissement sera envisageable sans donner plus de détails."
+}

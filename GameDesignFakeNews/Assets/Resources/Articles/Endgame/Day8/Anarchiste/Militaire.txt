@@ -1,0 +1,4 @@
+{
+	"title": "Un assaut interne",
+	"text": "C'est avec horreur et étonnement que nos propres concitoyens ont hurlés de rage cette nuit et se sont déchaînés aussi bien sur les boutiques et voitures de la capitale mais également sur les simples militaires qui étaient venu tenter de protéger les habitants contre les manifestants. Cependant, même eux ont dû sonner la retraite lorsque la vague humaine ne pouvait plus être contenue. Une dizaine de mort sont à recensés et plusieurs centaines de blessés assiègent les hôpitaux environnants."
+}

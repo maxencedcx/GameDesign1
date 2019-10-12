@@ -1,0 +1,4 @@
+{
+	"title": "De nouveaux adhérents",
+	"text": "Notre Eglise a récemment connue une hausse de popularité et de nouveaux adhérents viennent à présents de partout dans le pays afin de se faire laver de leurs péchés. Qu'il est agréable de voir tant d'âmes égarées se tourner vers le chemin de la vie eternelle."
+}

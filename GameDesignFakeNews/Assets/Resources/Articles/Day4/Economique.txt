@@ -1,0 +1,4 @@
+{
+	"title": "Un soulagement pour vos portes-monnaies",
+	"text": "Evoly : les nouveaux compteurs électriques produient par l'industrie scientifique de notre pays devraient vous permettre de réaliser quelques économies quant à vos consommations énergétiques. En effet, ces nouveaux compteurs bientôt installés dans tous les logements permettent d'automatiquement contrôler la consommation énergétique de votre maison. Ils peuvent donc par exemple couper le chauffage en excédent lorsque personne ne se trouve chez vous. Aucun doute que ces économies devraient être appréciées."
+}

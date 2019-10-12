@@ -1,0 +1,4 @@
+{
+	"title": "Blapanol : enfin une médecine pour tous !",
+	"text": "Le Blapanol, produit national destiné au traitement des maladies hivernales, est commercialisé depuis hier dans toutes les pharmacies du pays. Efficace sur tout le monde, il représente aujourd'hui le monde égalitaire de demain."
+}

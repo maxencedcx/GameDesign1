@@ -1,0 +1,4 @@
+{
+	"title": "Révolte !",
+	"text": "Plus de 500 000 manifestants sont venus, avec nous, lutter contre l'injustice dont fait preuve le gouvernement envers ces concitoyens. Il s'agissait d'un combat pour la liberté et le droit à l'expression qui a failli se faire interrompre par une arrivée militaire aux environs de 6h du matin. Heureusement, le nombre seul nous a suffit à repousser cette attaque et demain, ça sera au Parlement de résoudre les problèmes qu'ils ont préférés ignorer pendant toutes ces années."
+}

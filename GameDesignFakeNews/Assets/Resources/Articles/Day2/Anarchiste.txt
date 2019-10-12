@@ -1,0 +1,4 @@
+{
+	"title": "Un echec de notre gouvernement",
+	"text": "Ce sont une dizaine de missiles qui sont pointés dans notre direction par ce qui était autrefois nos alliés. Les rumeurs parlent de l'echec d'un accord secret entre l'état d'Arstograd et notre pays et quelques preuves tendent à pointer vers cette théorie. Vrai ou pas, il ne fait aucun doute de l'echec de notre gouvernement dans cette crise qui pourrait résulter à notre annihilation à tous."
+}

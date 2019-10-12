@@ -1,0 +1,4 @@
+﻿{
+	"title": "Paix à leurs âmes",
+	"text": "Le 'tueur de journalistes' court toujours et a hier fait sa 3ème victime en 2 semaines. Suivant son mode opératoire habituel, il s'est infiltré dans la maison de sa victime par la fenêtre, malgré le fait qu'elle habitait au 4ème étage, et a étrangler sa victime à mains nues. Après un rédacteur du journal militariste et un autre du journal économique, c'est un journaliste du journal scientifique qui a hier trouvé la mort alors que tous les soupçons pointaient vers un membre de leurs locaux. Malgré cette perte tragique, il est bon de préciser que l'enquête continue et que cette mort n'invalide pas la culpabilité d'aucun des trois établissements victimes."
+}

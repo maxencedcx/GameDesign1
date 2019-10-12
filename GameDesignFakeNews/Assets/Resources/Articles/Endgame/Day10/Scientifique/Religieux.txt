@@ -1,0 +1,4 @@
+{
+	"title": "La fin est proche",
+	"text": "Les démons bleus sont partout. Ils ont pervertis nos enfants, leurs ont implantés des virus qui controlent leurs pensées. La création des Dieux que nous représentons est un peu plus bafouée chaque jour devant ces démons qui s'appropprient le rôle des Tout-Puissants. Priez et repentissez-vous car la fin est proche et seul la prière peut sauver vos enfants à présent."
+}

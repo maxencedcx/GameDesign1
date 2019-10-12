@@ -1,0 +1,4 @@
+{
+	"title": "De nouveaux frères",
+	"text": "C'était un appel à l'aide qui a été lancé lors de la nuit dernière. Et c'est tout un pays qui a répondu à cet appel. C'est en effet plus de 3 millions de personnes qui ont rejoint le mouvement lors de la dernière manifestation. Ce qui était au départ de simples revendications se transforme aujourd'hui en un mouvement qui pourrait faire changer ce pays pour le mieux."
+}

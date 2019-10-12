@@ -1,0 +1,4 @@
+{
+	"title": "Des milliers de pêcheurs",
+	"text": "Ce sont des centaines de milliers de manifestants, casseurs et autres individus ayant abandonné la voie des dieux qui se sont retrouvés la veille pour mettre à sac la capitale. Cette attaque qui aura duré près de 9 heures s'est terminée par un assaut de l'armée rapidemment contré par le nombre de manifestants toujours grandissant."
+}

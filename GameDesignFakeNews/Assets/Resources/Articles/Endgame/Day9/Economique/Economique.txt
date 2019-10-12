@@ -1,0 +1,4 @@
+{
+	"title": "Amazol : les héros de Novitzka",
+	"text": "C'est après deux longues journées de négociation que notre gouvernement a enfin pu parvenir à un commun d'accord avec la société étrangère Amazol. En échange d'un prêt monétaire conséquent, la compagnie profitera maintenant d'un partenariat d'exclusivité avec notre pays ainsi que de certains avantages mineurs. Il n'est pas à préciser que sans eux, le résultat de ces deux jours auraient pu être encore plus désastreux qu'il ne l'est déjà."
+}

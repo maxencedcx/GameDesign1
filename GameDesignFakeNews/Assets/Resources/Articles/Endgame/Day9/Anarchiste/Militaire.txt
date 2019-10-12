@@ -1,0 +1,4 @@
+{
+	"title": "Loi martiale",
+	"text": "La loi martiale a été déclarée aujourd'hui suite aux attaques repétées des manifestants sur l'armée et les postes de police, aussi bien dans la capitale que dans les plus petites villes. Un couvre-feu a été établi et quiconque ne respectant pas ces règles sera neutralisé à vue d'après les forces armées. Reste a espérer que l'instauration de la loi martiale suffise à calmer ce mouvement qui devient hors de contrôle."
+}

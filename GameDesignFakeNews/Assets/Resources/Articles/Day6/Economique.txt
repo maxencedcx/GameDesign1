@@ -1,0 +1,4 @@
+{
+	"title": "Un investissement profitable",
+	"text": "C'est après plus de deux ans de développement que le SAP (système automatisé programmable) a enfin été déclaré opérationnel. Cet IA qui devrait permettre la production plus efficace et sans danger de plusieurs outils autrefois réalisés dans des chaînes de production est déclarée fonctionnelle et devrait être installé dans plus d'une centaine d'usines à travers le pays afin de la tester en situation réelle. Si les tests s'avèrent concluants, il est possible que cet amas de programme représente le futur industriel de notre pays."
+}

@@ -1,0 +1,4 @@
+{
+	"title": "L'Ordre de Novitzka",
+	"text": "L'Ordre de Novitzka recense chaque jours de plus en plus d'arrivants sans qu'ils soient possible de définir d'où viennent ces nouveaux venus. Le danger est présent. Si leurs nombres sont corrects, une véritable force armée se trouverait au coeur de notre pays sans même que nous le sachions."
+}

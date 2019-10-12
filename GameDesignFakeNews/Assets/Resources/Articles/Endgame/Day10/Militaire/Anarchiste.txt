@@ -1,0 +1,4 @@
+{
+	"title": "Resistez !",
+	"text": "Ils sont partout ! Ils patrouillent dans toutes les villes et controlent chaque passants. La moindre infraction est puni. Ne pensez même pas à fuir le pays. Ils sont aux frontières et ne laissent passer personne. Cachez-vous. Vivez. Resistez."
+}

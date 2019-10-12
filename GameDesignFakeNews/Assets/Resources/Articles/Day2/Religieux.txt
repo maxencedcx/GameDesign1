@@ -1,0 +1,4 @@
+﻿{
+	"title": "Le menace de nos voisins",
+	"text": "Arstograd, vos voisins que votre gouvernement a toujours présenté comme des frères, vous ont trahis. Ces traitres pointent aujourd'hui leurs armes vers notre direction. Malgré toute l'aide que nous leur avons apporté, ils ont toujours refusés d'embrasser la voie des Dieux et aujourd'hui ils nous menacent de leurs missiles. Le chemin de la paix n'est plus envisageable et seul la prière peut sauver leurs âmes à présent"
+}

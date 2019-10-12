@@ -1,0 +1,4 @@
+{
+	"title": "SAP : le futur d'aujourd'hui",
+	"text": "Le Système Automatisé Programmable, est une intelligence artifcielle développée en partenariat avec l'école scientifique de Novitzka. Cette dernière permet d'automatiser le travail de presque toutes les machines sous peu qu'elle ait eut un temps d'apprentissage avant. Cette révolution scientifique devrait théoriquement réduire de presque 70% les accidents du travail et les blessures qui en résultent."
+}

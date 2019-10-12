@@ -1,0 +1,4 @@
+{
+	"title": "Le Blapanol: miracle médical",
+	"text": "C'est après plus de 4 mois d'experimentation et avec la participation de tous les plus grands médecins et scientifiques du pays que le Blapanol, solution contre les maladies hivernales, Ces maladies qui tuent plusieurs dizaines de milliers de personnes chaque hiver devrait même être rendu obligatoire au même titre que les vaccins afin d'assurer la disparition de ces virus."
+}

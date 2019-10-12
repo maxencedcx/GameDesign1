@@ -1,0 +1,4 @@
+{
+	"title": "Les denrées prioritaires en rupture de stock",
+	"text": "La crise économique touche officiellement notre pays et c'est en moins d'une journée que les produits comme la nourriture et les vêtements sont en rupture de stock des grands magasins. Le fait que tous les grands magasins soient en rupture de stock au même moment est toujours inexplicable par les spécialistes. Il est cependant évident que de précieuses informations nous sont cachés."
+}

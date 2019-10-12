@@ -1,0 +1,4 @@
+{
+	"title": "Le tueur de journalistes frappe encore",
+	"text": "Hier aux alentours de 2h30 du matin mourrait la troisième victime du tueur de journaliste faisant donc officiellement de lui le premier tueur en série de Novitzka de cette décénie. Malgré la puissante force armées dont dispose notre pays et la forte présence policière dans chaque grandes villes, ce tueur a réussi malgré tout à échapper aux griffes de ses poursuivants depuis maintenant 2 semaines. Véritable épine dans le pied des hautes instances de ce pays, tous les efforts sont mis en place afin d'assurer sa capture ... cependant cela ne semble pas suffire au vu du manque d'indices dont disposent la police"
+}

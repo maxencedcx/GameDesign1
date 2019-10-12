@@ -1,0 +1,4 @@
+{
+	"title": "Les missiles sont superflus",
+	"text": "C'est un coût estimé à plus de 1.6 millions qui pèse déjà sur notre pays quelques heures à peine après l'annonce de l'enclechement du système de visée balistique d'Arstograd. Cette information dont la véracité reste toujours à prouver a déjà causée une panique conséquente dans les grandes villes où certains crient déjà à la guerre nucléaire. Une chose est sûr, guerre ou pas, les coûts sont déjà présents, reste à savoir jusqu'à quand."
+}

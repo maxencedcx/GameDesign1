@@ -1,0 +1,4 @@
+{
+	"title": "Une solution inefficace : serait-elle destinée à un autre usage ?",
+	"text": "L'installation d'un peu moins de 3 millions de caméras de surveillance est prévue d'ici quelques mois d'après le gouvernement. Ce projet de loi a été votée suite à la spéculation concernant la "dite" hausse de la criminalité malgré les nombreuses études prouvant le contraire. Suivant cette vague de course à la sécurité, plusieurs bâtiments publics sont soumis à une rénovation forcée d'ici les mois à venir par l'état afin de s'assurer de la qualité structurelle de ces derniers."
+}

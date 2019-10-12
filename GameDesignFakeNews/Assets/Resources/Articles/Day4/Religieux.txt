@@ -1,0 +1,4 @@
+﻿{
+	"title": "Une nouvelle création impures",
+	"text": "Ils reviennent à nouveau se présenter devant nous fiers de leurs nouvelles armes. Mais cette fois-ci, la supercherie a été immédiatement découverte. Les nouveaux compteurs Evoly : leur nouvelle création représentant le plus récent jouet des labos scientifiques de notre lumineux pay ont apparemment pour défaut principal la cause de cancer. Les ondes que ces outils envoient en permanence investissent votre maison et peuvent même porter atteinte à votre vie. Il est temps d'arrêter de leur faire confiance et d'ouvrir les yeux."
+}

@@ -1,0 +1,4 @@
+{
+	"title": "Ils vous voient et décident pour vous !",
+	"text": "La réalisation d'un nouveau programme informatique censé être capable de prédire en fonction des compétences de chacun le métier le plus adaptés à ses capacités a été divulgué ce matin. Ce programme qui vous prive de tous choix pourrait bientôt être utilisé dans les écoles afin de contrôler l'orientation des nos enfants influençables. Cependant il faut également se rappeler que pour que ce programme fonctionne réellement, il est nécessaire qu'il ait accès à toutes vos informations personnelles. Est-ce vraiment le rôle d'une machine de jugé de ce qui est bon pour vous ?"
+}

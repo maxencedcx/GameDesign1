@@ -1,0 +1,4 @@
+{
+	"title": "LE médicament qui marche : Blapanol",
+	"text": "La commercialisation d'un nouveau médicament abordable et révolutionnaire, le Blapanol, a été révelée hier. Après plusieurs mois de tests sur des volontaires, ce nouveau traitement s'est révelée efficace dans plus de 95% des cas dans la prévention et le traitement de tous les virus de l'hiver (grippe, rhumes, rhinopharyngites ...)."
+}

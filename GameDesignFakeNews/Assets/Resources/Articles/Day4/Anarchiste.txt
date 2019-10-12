@@ -1,0 +1,4 @@
+{
+	"title": "Une idée idiote ... ou pas",
+	"text": "Il est apparemment rentré dans la pensée générale qu'Evoly, les nouveaux compteurs électriques intelligents juste sortis de nos usines nationales, serait la source principale de tumeurs et lymphomes graves sur leurs utilisateurs. Ceci est invraisemblable ... et vous distrait du problème principal de ces compteurs intelligents. Pendant que l'actualité est concentrée sur ce sujet, des problèmes bien plus tangibles tel que le vol de vos données par ces compteurs sont passés sous trappe. Le gouvernement à pour objectif de voler toutes les informations qui font vous, vous. Ne les laissez pas faire !"
+}

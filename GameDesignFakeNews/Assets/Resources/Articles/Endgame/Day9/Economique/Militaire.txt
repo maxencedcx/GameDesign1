@@ -1,0 +1,4 @@
+{
+	"title": "Un bilan lourd de conséquences",
+	"text": " Ces deux derniers jours n'auront pas été de tout repos pour notre grand pays. En effet, plusieurs centaines de pertes sont a déplorés et plusieurs dizaines de milliers de blessés se ruent vers les hôpitaux pour y trouver de l'aide. Mais cela aurait pu être pire sans la réaction rapide et efficace de nos forces armées qui ont su prévenir un massacre."
+}

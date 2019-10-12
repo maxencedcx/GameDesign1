@@ -1,0 +1,4 @@
+{
+	"title": "Une sensibilisation aux problèmes de demain",
+	"text": "Récemment notre gouvernement a pris pour initiative de lancer une grande campagne de sensibilisation aux problèmes environnementaux et aux bonnes pratiques à prendre en tant que citoyen pour réduire notre empreinte écologique. Des séminaires et cours sont organisés dans les écoles et entreprises chaque jour à 15h pendant les 2 prochaines semaines."
+}

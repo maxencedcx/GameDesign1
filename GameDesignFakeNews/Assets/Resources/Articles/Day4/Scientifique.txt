@@ -1,0 +1,4 @@
+{
+	"title": "Evoly : les compteurs intelligents",
+	"text": "Suite à l'application de la loi relative au "comptage de l'électricité pour la transition vers une énergie pure", nos nouveaux compteurs intelligents - Evoly - sont disponibles. En plus d'être en accord avec cette nouvelle loi, ils permettent également un système d'envoi de rapport à distance permettant ainsi aux relevés d'être faits de façon automatisés, rendant donc inutile la venue physique d'un technicien. De plus ils pourrait bien vous permettre de réaliser quelques économies en énergie avec leur système d'activation à distance !"
+}

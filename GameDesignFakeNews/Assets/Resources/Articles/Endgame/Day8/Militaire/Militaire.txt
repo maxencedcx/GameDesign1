@@ -1,0 +1,4 @@
+{
+	"title": "Un nouveau moyen de dissuasion",
+	"text": "1 420 000 caméras de surveillance en circuit fermé seront installées à l'intérieur et autour de la ville faisant de Novitzka le cinquième pays le plus surveillé du monde. Ces caméras ont pour but d'assurer la sécurité des citoyens et devraient servir de moyen de dissuasion afin de prévenir les crimes - dont les chiffres sont toujours en hausse - dans notre pays."
+}

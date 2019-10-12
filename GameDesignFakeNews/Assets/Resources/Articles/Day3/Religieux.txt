@@ -1,0 +1,4 @@
+﻿{
+	"title": "Vers la seule Voie",
+	"text": "C'est demain que se tiendra la rencontre entre les représentants du gouvernement d'Arstograd et nos représentants afin de renégocier certains points de nos traités de non-agression. Cependant notre gouvernement devrait également prendre en compte les récents évenements survenus il y a quelques semaines à peine et profiter de cette occasion pour redéfinir leurs priorités. Il s'agit ici de l'occasion d'enfin s'éloigner des hérétiques car les Dieux ne tolèrent pas les êtres impurs ainsi que leurs alliés. Quel sera notre punition si jamais nous continuons à bafouer leurs principes ?"
+}

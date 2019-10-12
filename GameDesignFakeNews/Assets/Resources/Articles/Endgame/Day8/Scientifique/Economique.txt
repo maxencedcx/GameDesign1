@@ -1,0 +1,4 @@
+{
+	"title": "Un programme pour l'égalité",
+	"text": "Ce matin a été révélé le nouveau programme interne à Novitzka permettant une attribution optimale des ressources humaines de notre pays. Ce programme, qui garantit à un citoyen d'obtenir un métier dans lequel il devrait s'épanouir est une bonne nouvelle qui devrait améliorer l'économie de notre pays de façon profitable."
+}

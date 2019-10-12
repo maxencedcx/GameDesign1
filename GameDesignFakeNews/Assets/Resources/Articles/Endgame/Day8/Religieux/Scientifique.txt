@@ -1,0 +1,4 @@
+{
+	"title": "Des disparitions en série : certaines victimes ont été apperçues",
+	"text": "Depuis bientôt un mois, c'est 4053 disparus qui sont à déplorés partout dans le pays sans qu'aucune piste ne soient donnés aux enqueteurs. Cependant, d'après certaines rumeurs, les toutes premières victimes auraient été apperçues dans des villes différentes à celles de leur disparition. Ce qui n'était qu'une conversation de comptoir auparavant est aujourd'hui corroboré par plusieurs témoins dans différents endroits. Dans ce cas, pourquoi est-ce que les victimes ne rentrent-elles pas chez elles ?"
+}

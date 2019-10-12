@@ -1,0 +1,4 @@
+{
+	"title": "La Lumière Divine",
+	"text": "C'est dans la joie et l'allégresse que nous célébrons la décision éclairée de notre gouvernement de suivre la seule et unique voie qui ménera vers la vie eternelle. C'est en effet hier soir que le vote placant l'Ordre de Novitzka en tant qu'Institution à part de notre beau pays a été accepté. Cela nous permettra de guider aussi bien les braves citoyens de Novitzka que les pêcheurs vers la redemption."
+}

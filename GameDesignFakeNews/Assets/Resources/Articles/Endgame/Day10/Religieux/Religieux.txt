@@ -1,0 +1,4 @@
+{
+	"title": "L'étoile à neuf branches : symbole d'immortalité et de connaissance",
+	"text": "C'est après un long combat qu'enfin, les derniers pêcheurs ont été ramenés vers le chemin de la vérité. L'Ordre de Novitzka a su convaincre les plus réluctants que seul les plus dévoués et les plus croyants accéderont aux portes de l'éternité. Les dernières traces des démons bleus ont été vaincus et c'est le début d'un air de paix et de prospérité qui est sur le point de commencer."
+}

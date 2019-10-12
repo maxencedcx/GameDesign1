@@ -1,0 +1,4 @@
+{
+	"title": "Sortis de l'ombre",
+	"text": "C'est des dizaines de milliers de religieux qui ont subitemment surgis de l'ombre pour se rassembler dans les rues et place importantes du pays. Le Parlement et les forces armées se sont retrouvés sans défense face à cette attaque de grande ampleur que personne n'avait prévu. Il est a noter que, d'après plusieurs témoins, d'anciennes victimes des enlèvements de ces derniers mois étaient reconnus parmi ces religieux."
+}

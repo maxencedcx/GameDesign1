@@ -1,0 +1,4 @@
+{
+	"title": "Une crise économique impossible",
+	"text": "D'après les nombreuses simulations effectuées par nos ordinateurs, une crise économique en Novitzka est impossible ... et pourtant celle-ci a été déclarée officielle cet après-midi. Les grands magasins ont déjà réagis face à cette information et ont apparemment écoulé tout leurs stocks tandis que les petits commerçants peinent à suivre le rythme - toujours montant - des prix concernant les denrées prioritaires et secondaires. Cependant comment les stocks des grands magasins ont-ils pu être écoulés aussi rapidemment ?"
+}

@@ -1,0 +1,4 @@
+{
+	"title": "Une crise sans précédent : un sauveur potentiel",
+	"text": "C'est officiel, la crise économique est déclarée. Les prix n'ont jamais été aussi haut ni monté aussi rapidemment depuis les 50 dernières années. Ce sont des millions de personnes qui sont dans les rues de chaque grandes villes de notre pays afin de manifester ou de troquer leurs biens contre de la nourriture ou de quoi produire de l'énergie. Mais c'est dans cet situation semblable à un enfer économique qu'un sauveur se profile au loin. En effet, d'après les dernières informations, un contrat avec une entreprise encore inconnue pourrait redresser l'économie de notre pays. Reste à espérer que notre gouvernement saura faire le bon choix."
+}

@@ -9,7 +9,7 @@ public class ArticlesLoader : MonoSingleton<ArticlesLoader>
     private FileInfo[] GetArticlesInFolder(string folder)
     {
         DirectoryInfo d = new DirectoryInfo(folder);
-        return d.GetFiles("Article*.txt");
+        return d.GetFiles("*.txt");
     }
 
     public List<Article> LoadArticles(string context)
@@ -19,7 +19,12 @@ public class ArticlesLoader : MonoSingleton<ArticlesLoader>
         try
         {
             foreach (FileInfo fi in GetArticlesInFolder(Application.dataPath + "/Resources/Articles/" + context))
-                articles.Add(JsonConvert.DeserializeObject<Article>(File.ReadAllText(fi.FullName)));
+            {
+                Article article = JsonConvert.DeserializeObject<Article>(File.ReadAllText(fi.FullName));
+                article.media = fi.Name.Replace(fi.Extension, "");
+                Debug.Log(article.media);
+                articles.Add(article);
+            }
         }
         catch (Exception e)
         {

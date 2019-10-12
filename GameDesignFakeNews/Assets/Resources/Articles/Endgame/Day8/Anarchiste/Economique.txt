@@ -1,0 +1,4 @@
+{
+	"title": "Un cri couteux : plus de 7 millions de dommages recensé",
+	"text": "C'est un coût estimé à plus de 7 millions de dommages qui pèse à présent sur le gouvernement de Novitzka.Ces manifestants qui hurlaient pour l'égalité et la liberté ne se rendaient certainement pas compte du coût qu'allait avoir une telle demande sur leur porte-monnaie. Il est a espérer maintenant que ce genre d'incident ne se répète pas sans quoi le coût des réparations pourrait bientôt devenir catastrophique pour notre économie."
+}

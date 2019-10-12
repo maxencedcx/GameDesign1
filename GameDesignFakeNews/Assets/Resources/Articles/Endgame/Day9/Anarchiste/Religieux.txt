@@ -1,0 +1,4 @@
+{
+	"title": "Succomber à la tentation",
+	"text": "C'est sans doute l'oeuvre des démons bleus qui, en tentant nos concitoyens avec leurs mensonges, ont réussi à recruter d'autres partisans dans leurs folies. Si cela ne cesse pas bientôt, il est possible que tout notre pays se retrouve contaminé et qu'un retour en arrière ne soit plus possible."
+}

@@ -1,0 +1,4 @@
+{
+	"title": "Un sujet un peu plus mis en avant chaque jour",
+	"text": "Les changements climatiques sont sur toutes les lèvres actuellement ... et surtout celles de notre gouvernement. Cela fait bientôt 2 semaines qu'une large campagne de sensibilisation sur le sujet a été mise en place par notre gouvernement. Cependant ce qui pourrait passer comme une bonne action au premier abord peut cacher une réalité bien plus sombre. Serait-il possible que le zèle de notre gouvernement sur ce sujet ne soit qu'un écran de fumée pour nous forcer à regarder ailleurs ? Certaines rumeurs tendent à aller dans ce sens."
+}
