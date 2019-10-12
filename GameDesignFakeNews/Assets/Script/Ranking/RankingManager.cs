@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class RankingManager : MonoBehaviour
 {
-    public Dictionary<string, double> NewspaperRanking = new Dictionary<string, double>()
+    public Dictionary<string, int> NewspaperRanking = new Dictionary<string, int>()
     {
         {"News", 0},
         {"News (1)", 0},
@@ -26,7 +26,21 @@ public class RankingManager : MonoBehaviour
                 NewspaperRanking[item.name] += Addscore;
                 Addscore--;
             }
-            Debug.Log(item.name + Addscore);
         }
+    }
+
+    public string GetTopMedia()
+    {
+        int BestScore = 0;
+        string BestMedia ="";
+        foreach (var item in NewspaperRanking)
+        {
+            if (item.Value > BestScore)
+            {
+                BestScore = item.Value;
+                BestMedia = item.Key;
+            }
+        }
+        return (BestMedia);
     }
 }
