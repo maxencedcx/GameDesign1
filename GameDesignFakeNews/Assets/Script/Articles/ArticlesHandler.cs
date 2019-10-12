@@ -27,6 +27,7 @@ public class ArticlesHandler : MonoSingleton<ArticlesHandler>
     {
         if (context.StartsWith("EndGame"))
             context += "/" + rankingManager.GetTopMedia();
+        Debug.Log(context);
         foreach (Article article in ArticlesLoader.Instance.LoadArticles(context))
         {
             AddArticle(article);
