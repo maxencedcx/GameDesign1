@@ -1,4 +1,4 @@
-{
-	"title": "Paix à leurs âmes",
-	"text": "Le 'tueur de journalistes' court toujours et a hier fait sa 3ème victime en 2 semaines. Suivant son mode opératoire habituel, il s'est infiltré dans la maison de sa victime par la fenêtre, malgré le fait qu'elle habitait au 4ème étage, et a étrangler sa victime à mains nues. Après un rédacteur du journal militariste et un autre du journal économique, c'est un journaliste du journal scientifique qui a hier trouvé la mort alors que tous les soupçons pointaient vers un membre de leurs locaux. Malgré cette perte tragique, il est bon de préciser que l'enquête continue et que cette mort n'invalide pas la culpabilité d'aucun des trois établissements victimes."
+ï»¿{
+	"title": "Paix Ã  leurs Ã¢mes",
+	"text": "Le 'tueur de journalistes' court toujours et a hier fait sa 3Ã¨me victime en 2 semaines. Suivant son mode opÃ©ratoire habituel, il s'est infiltrÃ© dans la maison de sa victime par la fenÃªtre, malgrÃ© le fait qu'elle habitait au 4Ã¨me Ã©tage, et a Ã©trangler sa victime Ã  mains nues. AprÃ¨s un rÃ©dacteur du journal militariste et un autre du journal Ã©conomique, c'est un journaliste du journal scientifique qui a hier trouvÃ© la mort alors que tous les soupÃ§ons pointaient vers un membre de leurs locaux. MalgrÃ© cette perte tragique, il est bon de prÃ©ciser que l'enquÃªte continue et que cette mort n'invalide pas la culpabilitÃ© d'aucun des trois Ã©tablissements victimes."
 }
