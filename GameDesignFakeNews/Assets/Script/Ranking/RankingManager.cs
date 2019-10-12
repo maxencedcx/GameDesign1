@@ -16,6 +16,7 @@ public class RankingManager : MonoBehaviour
 
     public void UpdateRanking()
     {
+        Debug.Log("passe");
         foreach (Transform slotTransform in slots)
         {
             int Addscore = 5;
