@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class DayHandler : MonoSingleton<DayHandler>
 {
+    [SerializeField] private GameObject EndGamePanel;
     [SerializeField] private int totalDays = 1;
     [SerializeField] private int dayIndex = 0;
     private RankingManager rankingManager;
@@ -22,6 +23,8 @@ public class DayHandler : MonoSingleton<DayHandler>
             string context = (++dayIndex <= totalDays) ? ("Day" + dayIndex) : ("EndGame/Day" + dayIndex);
             ArticlesHandler.Instance.LoadArticles(context);
         }
+        else
+            EndGamePanel.SetActive(true);
     }
 
     public void EndDay()
